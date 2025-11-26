@@ -1,0 +1,10 @@
+*.exe
+*.bin
+*.elf
+*.hex
+*.log
+*.vs
+*.vscode
+*.DS_Store
+*.tmp
+*.bak
